@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "name": "ULTIMUSPOOL",
+    "name": "AntPool (ULTIMUSPOOL)",
     "addresses": [
       "1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi",
       "3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd"
@@ -63,7 +63,7 @@
   },
   {
     "id": 6,
-    "name": "BTC.com",
+    "name": "AntPool (BTC.com)",
     "addresses": [
       "1Bf9sZvBHPFGVPX71WX2njhd1NXKv5y7v5",
       "34qkc2iac6RsyxZVfyE2S5U5WcRsbg2dpK",
@@ -449,7 +449,7 @@
   },
   {
     "id": 43,
-    "name": "Braiins Pool",
+    "name": "AntPool (Braiins Pool)",
     "addresses": [
       "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr",
       "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE"
@@ -1029,7 +1029,7 @@
   },
   {
     "id": 94,
-    "name": "Poolin",
+    "name": "AntPool (Poolin)",
     "addresses": [
       "14sA8jqYQgMRQV9zUtGFvpeMEw7YDn77SK",
       "17tUZLvy3X2557JGhceXRiij2TNYuhRr4r",
@@ -1152,7 +1152,7 @@
   },
   {
     "id": 105,
-    "name": "Binance Pool",
+    "name": "AntPool (Binance Pool)",
     "addresses": [
       "122pN8zvqTxJaA8fRY1PDBu4QYodqE5m2X",
       "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw",
@@ -1213,7 +1213,7 @@
   },
   {
     "id": 110,
-    "name": "EMCDPool",
+    "name": "AntPool (EMCDPool)",
     "addresses": [
       "1BDbsWi3Mrcjp1wdop3PWFNCNZtu4R7Hjy"
     ],
